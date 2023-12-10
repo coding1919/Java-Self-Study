@@ -1,5 +1,10 @@
 // About Java:
 // It is developed by Sun Microsystems which was purchased by Oracle in 2010
+// It was founded by James Gosling and kept the name Oak
+// The main goal was to make it simple, portable and reliable compare to C and C++ 
+// Also it was the first application language throughout the world wide web
+// Java is purely object oriented programming
+// Java is both compiled and interpreted language because Java is compiled into the bytecode and then it is interpreted to machine code 
 // It is a general purpose and powerful programming language
 // Used for developing software that runs on mobile,desktop and servers
 // It is machine independent
@@ -25,10 +30,11 @@
 
 // JDK - (Java Development Kit):
 // Set of programs that enables us to develop our programs
-// Contains JRE(Java RunTime Environment) that is used to run the programs
+// Contains JRE(Java RunTime Environment) that is used to run (executing) the programs
 // Both JRE and JDK contains JVM(Java Virtual Machine)
 // JVM executes our java programs on different machines
 // Because of it Java is independent 
+// It is a collection of tools used for developing and running Java programs
 
 // IDE - (Integrated Development Environment)
 // A program that allows us to write source code, compile to machine code, debug which is tools to find errors, build files that can be executed by JVM and run or execute the programs
